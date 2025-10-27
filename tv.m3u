@@ -3,7 +3,7 @@
 #EXTINF:-1,Группа каналов из плейлиста 1
 
 #EXTINF:0 type="playlist", 2015 год
-http://example.com/playlists/2015.m3u
+https://iptvinfo.ru/wp-content/uploads/2024/03/centoxcento.m3u
 
 #EXTINF:-1 type="playlist", tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="" group-title="[loganet] all",[loganet]
 https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/all.m3u
