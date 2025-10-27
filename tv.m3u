@@ -1,1 +1,6 @@
 #EXTM3U
+
+#EXTINF:-1,Группа каналов из плейлиста 1
+
+#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="" group-title="[loganet] all",[loganet]
+https://raw.githubusercontent.com/loganettv/playlists/refs/heads/main/all.m3u
