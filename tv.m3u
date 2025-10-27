@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
-#EXTINF:-1,Группа каналов из плейлиста 1
-
-#EXTINF:0 type="playlist", 2015 год
+#EXTINF:-1 type="playlist", 205 год
 https://iptvinfo.ru/wp-content/uploads/2024/03/centoxcento.m3u
 
 #EXTINF:-1 type="playlist", tvg-id="" tvg-name="AdultIPTV.net Live Cams" tvg-language="English" tvg-logo="" group-title="[loganet] all",[loganet]
