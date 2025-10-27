@@ -1,798 +1,1149 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-
-#EXTINF:-1 group-title="Каналы от Dmitry-tv",D-TV6
-http://dmitry-tv.ddns.net:8666/his/CH_D-TV6
-#EXTINF:-1 group-title="Каналы от Dmitry-tv",Dmitry-tv HD
-http://dmitry-tv.ddns.net:8000/his/CH_DMITRY-TVHD
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_9.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+8)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (-1)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+2)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+4)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+6)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+7)
-http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U-1.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
-http://dmitry-tv.ddns.net/hls/zabava/CH_U.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_2.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_4.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_6.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_U_7.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РТС HD720 (Абакан)
-http://dmitry-tv.ddns.net/hls/zabava/region/ABAKAN/CH_RTSHD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ-7 HD (Абакан)
-http://dmitry-tv.ddns.net/hls/zabava/region/ABAKAN/CH_TV7.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Красноярск)
-http://dmitry-tv.ddns.net/hls/zabava/region/ABAKAN/CH_8CHANNEL_KRSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Абакан 24 HD (Абакан)
-http://dmitry-tv.ddns.net/hls/zabava/region/ABAKAN/CH_ABAKAN24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Регион 29 (Архангельск)
-http://dmitry-tv.ddns.net/hls/zabava/region/ARKH/CH_REGION29.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ 24 (Северодвинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/ARKH/CH_STV24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Астрахань 24 HD (Астрахань)
-http://dmitry-tv.ddns.net/hls/zabava/region/ASTRH/CH_ASTRAKHAN24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про Астрахань/Продвижение HD (Астрахань)
-http://dmitry-tv.ddns.net/hls/zabava/region/ASTRH/CH_PRO_ASTRAKHANHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ачинское ТВ HD (Ачинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/ACHINSK/CH_ACHINSKOETVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Катунь 24 (Барнаул)
-http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_KATUN24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Толк (Барнаул)
-http://dmitry-tv.ddns.net/hls/zabava/region/BUL/CH_TOLK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мир Белогорья (Белгород)
-http://dmitry-tv.ddns.net/hls/zabava/region/BELG/CH_MIR_BLGRYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Белгород 24 (Белгород)
-http://dmitry-tv.ddns.net/hls/zabava/region/BELG/CH_BELGOROD24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Бийское ТВ HD (Бийск)
-http://dmitry-tv.ddns.net/hls/zabava/region/BIYSK/CH_BIYSKTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТК (Биробиджан)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_BIR/CH_NTK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Амурское Областное Телевидение (Благовещенск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_BLAG/CH_AOTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город 24 (Благовещенск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_BLAG/CH_GOROD24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тында ТВ (Тында)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_BLAG/CH_TYNDATV_TYNDA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",БСТ-24 HD (Братск)
-http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_BST24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",360° (Братск)
-http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_360_BRATSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Актис HD720 (Ангарск)
-http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_AKTIS_AGRSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТСТ HD (Черемхово)
-http://dmitry-tv.ddns.net/hls/zabava/region/BRATSK/CH_TCTHD_CHRMVO.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Брянская губерния HD (Брянск)
-http://dmitry-tv.ddns.net/hls/zabava/region/BRYANSK/CH_BRGUBERNIAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Брянск 24 HD (Брянск)
-http://dmitry-tv.ddns.net/hls/zabava/region/BRYANSK/CH_BRYANSK24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новгородское областное телевидение (Великий Новгород)
-http://dmitry-tv.ddns.net/hls/zabava/region/NOVG/CH_NOVGORODTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ (Владивосток)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_OTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Владивосток)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_8KANAL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Восток 24 (Владивосток)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_VOSTOK24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Телемикс (Уссурийск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_TELEMIKS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",25 регион HD (Владивосток)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_VLD/CH_25REGIONHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Осетия Ирыстон HD (Владикавказ)
-http://dmitry-tv.ddns.net/hls/zabava/region/VKAZ/CH_IRISTONHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния 33 HD (Владимир)
-http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_GUBERNIA33HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вариант V (Владимир)
-http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_VARIANT_V.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6 канал HD (Владимир)
-http://dmitry-tv.ddns.net/hls/zabava/region/VLAD/CH_6KANALHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 1 HD (Волгоград)
-http://dmitry-tv.ddns.net/hls/zabava/region/VGRAD/CH_VOLGOGRAD1HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгоград 24 HD (Волгоград)
-http://dmitry-tv.ddns.net/hls/zabava/region/VGRAD/CH_VOLGOGRAD24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Русский Север HD (Вологда)
-http://dmitry-tv.ddns.net/hls/zabava/region/VOL/CH_RUSEVER.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 канал (Череповец)
-http://dmitry-tv.ddns.net/hls/zabava/region/VOL/CH_12CHANNEL_CHER.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",TV Губерния (Воронеж)
-http://dmitry-tv.ddns.net/hls/zabava/region/VRZH/CH_TVGUBERNIYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВТК АРГУС HD (Воронеж)
-http://dmitry-tv.ddns.net/hls/zabava/region/VRZH/CH_ARGUS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Воронеж)
-http://dmitry-tv.ddns.net/hls/zabava/region/VRZH/CH_IZVESTIYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ HD (Екатеринбург)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_OTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МиГ ТВ (Красноуральск)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_MIGTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РИМ HD (Каменск-Уральский)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_RIMHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС (Екатеринбург)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_IRBITVEST.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Инком ТВ (Талица)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_INKOMTV_TALICA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор HD720 (Туринск)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_VEKTORHD720_TRNSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Телекон 24 HD (Екатеринбург)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_TELEKON24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",4 канал (Екатеринбург)
-http://dmitry-tv.ddns.net/hls/zabava/region/EKT/CH_4CHANNEL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Барс (Иваново)
-http://dmitry-tv.ddns.net/hls/zabava/region/IVAN/CH_BARS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ИОТ (Иваново)
-http://dmitry-tv.ddns.net/hls/zabava/region/IVAN/CH_IOT.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Моя Удмуртия (Ижевск)
-http://dmitry-tv.ddns.net/hls/zabava/region/IZHSK/CH_MYUDMURTIA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МЭТР (Йошкар-Ола)
-http://dmitry-tv.ddns.net/hls/zabava/region/YOLA/CH_METR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АИСТ HD (Иркутск)
-http://dmitry-tv.ddns.net/hls/zabava/region/IRK/CH_AISTHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АКТИС HD720 (Иркутск)
-http://dmitry-tv.ddns.net/hls/zabava/region/IRK/CH_AKTISHD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Иркутск)
-http://dmitry-tv.ddns.net/hls/zabava/region/IRK/CH_NTSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНВ Татарстан (Казань)
-http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_TNVT.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Татарстан 24 (Казань)
-http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_TATARSTAN24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Майдан (Казань)
-http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_MAIDAN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",TMTV (Казань)
-http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_TMTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Эфир (Казань)
-http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_EFIR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНВ Планета (Казань)
-http://dmitry-tv.ddns.net/hls/zabava/region/KZN/CH_TNVPLANETA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ШАЯН (Казань)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_SHAYANTV_KZN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Каскад-24 (Калининград)
-http://dmitry-tv.ddns.net/hls/zabava/region/KLGR/CH_KASKAD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ника ТВ (Калуга)
-http://dmitry-tv.ddns.net/hls/zabava/region/KALUGA/CH_NIKA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Камчатка 1 HD (Камчатка)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_KAM/CH_KAMCHATKA1HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",41 Регион (Камчатка)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_KAM/CH_41REG.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кузбасс 1 (Кемерово)
-http://dmitry-tv.ddns.net/hls/zabava/region/KEM/CH_KUZBASS1.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Кемерово)
-http://dmitry-tv.ddns.net/hls/zabava/region/KEM/CH_IZVEST_KEMR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Анжерское телевидение (Анжеро-Судженск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KEM/CH_ANGERSKTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Девятка ТВ HD (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_9TVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый городской HD720 (Киров)
-http://dmitry-tv.ddns.net/hls/zabava/region/KIROV/CH_1GORODSKOYHD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Русь (Кострома)
-http://dmitry-tv.ddns.net/hls/zabava/region/KOSTROMA/CH_RUS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кубань 24 (Краснодар)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRDAR/CH_KUBAN24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Краснодар HD (Краснодар)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRDAR/CH_KRASNODARHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РБК (Краснодар)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRDAR/CH_RBC-KRD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Енисей HD (Красноярск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_ENISEYHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",7 канал HD (Красноярск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_7CHANNELHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ПРИМА HD (Красноярск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_PRIMAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВК 24 HD (Красноярск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRSK/CH_TVK24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ИНФО 24 HD (Шадринск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRG/CH_INFO24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Область 45 HD720 (Курган)
-http://dmitry-tv.ddns.net/hls/zabava/region/KRG/CH_OBLAST45HD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Такт 24 (Курск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KURSK/CH_TAKT24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сейм (Курск)
-http://dmitry-tv.ddns.net/hls/zabava/region/KURSK/CH_SEIM.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тува 24 (Кызыл)
-http://dmitry-tv.ddns.net/hls/zabava/region/TUVA/CH_TUVA24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецкое время HD (Липецк)
-http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_LVREMYAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ВОТ ТВ HD (Липецк)
-http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_VOTTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Липецк Тайм HD (Липецк)
-http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_LIPTIMEHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Елец ТВ (Липецк)
-http://dmitry-tv.ddns.net/hls/zabava/region/LIPETSK/CH_ELETS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Колыма+ HD (Магадан)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_MGDN/CH_KOLYMAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КАРИБУ (Магадан)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_MGDN/CH_KARIBU.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Магаданский городской телеканал HD (Магадан)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_MGDN/CH_MGDN_MGTK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Майкопское Телевидение (Майкоп)
-http://dmitry-tv.ddns.net/hls/zabava/region/MAYK/CH_MAYKOP.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РГВК Дагестан HD (Махачкала)
-http://dmitry-tv.ddns.net/hls/zabava/region/MAHACHK/CH_DAGESTAN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва 24 (Москва)
-http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_MOSKVA24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Москва Доверие (Москва)
-http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_MOSKVADOVERIE.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТЕО ТВ HD (Москва)
-http://dmitry-tv.ddns.net/hls/zabava/region/MOS/CH_TEOTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АРКТИК ТВ HD (Мурманск)
-http://dmitry-tv.ddns.net/hls/zabava/region/MURM/CH_ARCTICHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",21+ (Мурманск)
-http://dmitry-tv.ddns.net/hls/zabava/region/MURM/CH_TV21PLUS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кабардино-Балкария HD (Нальчик)
-http://dmitry-tv.ddns.net/hls/zabava/region/NALCH/CH_KBR.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Север HD (Нарьян-Мар)
-http://dmitry-tv.ddns.net/hls/zabava/region/NAO/CH_SEVER.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга (Нижний Новгород)
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_VOLGA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волга 24 HD720 (Нижний Новгород)
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_VOLGA24HD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ННТВ HD720 (Нижний Новгород)
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_NNTVHD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Дзержинск ТВ HD (Дзержинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NN/CH_DZERZHINSKHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тагил-ТВ (Нижний Тагил)
-http://dmitry-tv.ddns.net/hls/zabava/region/NTAG/CH_TAGILTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал (Новокузнецк)
-http://dmitry-tv.ddns.net/hls/zabava/region/NVKZ/CH_DESYATKA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Про жизнь HD (Новокузнецк)
-http://dmitry-tv.ddns.net/hls/zabava/region/NVKZ/CH_PROZHIZNHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новороссийск HD (Новороссийск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NVR/CH_NOVOROSSIYSKHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТС HD (Бердск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NSK/CH_OTSHD_BERDSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТС HD (Новосибирск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NSK/CH_OTSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НСК 49 канал HD (Новосибирск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NSK/CH_NSK49CHANNELHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",8 канал (Новосибирск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NSK/CH_8CHANNEL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ямал-Регион (Салехард)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_YAMREG.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",МИГ ТВ HD (Ноябрьск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_MIGTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Импульс HD (Новый Уренгой)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_IMPULSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Муравленко 24 HD (Муравленко)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_MURAVLENKO24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЯМАЛ 1 HD (Ноябрьск)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_YAMAL1HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вектор 24 (Губкинский)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_VEKTOR24_GUBK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Вестник Надыма HD (Надым)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_VESTN_NADHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Луч HD (Тарко-Сале)
-http://dmitry-tv.ddns.net/hls/zabava/region/NBK/CH_LUTCHHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",12 канал HD (Омск)
-http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_12CHANNELHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый городской (Омск)
-http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_1GORODSKOY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Продвижение HD (Омск)
-http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_PRODVIZHENIEHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Омск ТВ HD (Омск)
-http://dmitry-tv.ddns.net/hls/zabava/region/OMSK/CH_OMSKTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый областной (Орел)
-http://dmitry-tv.ddns.net/hls/zabava/region/ORL/CH_1OBLASTNOY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Истоки (Орел)
-http://dmitry-tv.ddns.net/hls/zabava/region/ORL/CH_ISTOKI.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Орт Планета (Оренбург)
-http://dmitry-tv.ddns.net/hls/zabava/region/ORB/CH_ORTPLANETA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евразия HD (Оренбург)
-http://dmitry-tv.ddns.net/hls/zabava/region/ORB/CH_EVRAZIYAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Экспресс HD (Пенза)
-http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_EXPRESSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наш дом HD (Пенза)
-http://dmitry-tv.ddns.net/hls/zabava/region/PENZA/CH_NASHDOMHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ветта-24 (Пермь)
-http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_VETTA24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РИФЕЙ-ТВ (Пермь)
-http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_RIFEY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Верх ТВ (Березники)
-http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_VERHTV_BRZKI.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Своё ТВ (Березники)
-http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_SVOETV_BRZKI.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЛТК HD (Лысьва)
-http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_LTKHD_LSVA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СОЮЗ ТВ (Чусовой)
-http://dmitry-tv.ddns.net/hls/zabava/region/PERM/CH_SOYUZ_CHUS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сампо ТВ (Петрозаводск)
-http://dmitry-tv.ddns.net/hls/zabava/region/PZAV/CH_SAMPOTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ростовский HD (Ростов на Дону)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_1ROSTOVSKIYHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Дон 24 HD (Ростов на Дону)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_DON24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Таганрог 5 (Таганрог)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_TAGANROG5_TGNROG.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Волгодонский Вестник (Волгодонск)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_VOLGVEST_VOLG.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новошахтинск ТВ HD (Новошахтинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_NOVOSHAHTINSKHD_NVSHNSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Шахты ТВ HD (Ростов на Дону)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_SHAHTYHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Батайск ТВ HD (Ростов на Дону)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_BATAYSKHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новочеркасск ТВ HD (Ростов на Дону)
-http://dmitry-tv.ddns.net/hls/zabava/region/RD/CH_NOVOCHERKASSKHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РЫБИНСК 40 HD (Рыбинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/RYB/CH_RYBINSK40HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТКР HD (Рязань)
-http://dmitry-tv.ddns.net/hls/zabava/region/RYAZ/CH_TKPHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Город! (Рязань)
-http://dmitry-tv.ddns.net/hls/zabava/region/RYAZ/CH_GOROD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара 24 (Самара)
-http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_SAMARA24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",КТВ-Луч/Самара 24 (Сызрань)
-http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_KTVLUCH.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тольятти 24 HD (Тольятти)
-http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_TOLYTTI24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния (Самара)
-http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_GUBERNIA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самара-Гис HD (Самара)
-http://dmitry-tv.ddns.net/hls/zabava/region/SAMARA/CH_SAMARAGISHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Лен ТВ 24 (Санкт-Петербург)
-http://dmitry-tv.ddns.net/hls/zabava/region/SPB/CH_LENTV24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Санкт-Петербург HD (Санкт-Петербург)
-http://dmitry-tv.ddns.net/hls/zabava/region/SPB/CH_SPB.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",78 канал HD (Санкт-Петербург)
-http://dmitry-tv.ddns.net/hls/zabava/region/SPB/CH_78CHANNELHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",10 канал (Саранск)
-http://dmitry-tv.ddns.net/hls/zabava/region/SRNK/CH_10CHANNEL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Народное телевидение Мордовии (Саранск)
-http://dmitry-tv.ddns.net/hls/zabava/region/SRNK/CH_NTM.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Саратов 24 HD (Саратов)
-http://dmitry-tv.ddns.net/hls/zabava/region/SARATOV/CH_SARATOV24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ Сахалин (Сахалин)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN_OBL/CH_OTV_SLIN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АСТВ (Сахалин)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_ACTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Известия (Сахалин)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_SLIN/CH_IZVESTIYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сочи 24 HD (Сочи)
-http://dmitry-tv.ddns.net/hls/zabava/region/SOCHI/CH_SOCHI24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Кавказ 24 (Ставрополь)
-http://dmitry-tv.ddns.net/hls/zabava/region/STAVR/CH_KAVKAZ24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СВОЁ ТВ HD (Ставрополь)
-http://dmitry-tv.ddns.net/hls/zabava/region/STAVR/CH_SVOETVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ (Ставрополь)
-http://dmitry-tv.ddns.net/hls/zabava/region/STAVR/CH_ATV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ (Севастополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_STV_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ HD (Севастополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_STVHD_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ 24 (Севастополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_STV24_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",СТВ 24 HD (Севастополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_STV24HD_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Миллет ТВ (Симферополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_MILLET.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС (Севастополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_NTS_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НТС HD (Севастополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_NTSHD_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК-555 (Алушта)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_TRK555_ALUSHTA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК-555 HD (Алушта)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_TRK555HD_ALUSHTA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Крымский (Симферополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_KRYM1.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евпатория 24 (Евпатория)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_EVPATORIA24_EVPATORIA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Евпатория 24 HD (Евпатория)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_EVPATORIA24HD_EVPATORIA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Севастопольский (Севастополь)
-#EXTVLCOPT:http-user-agent=IPTV
-http://dmitry-tv.ddns.net//hls/zabava/region/SMRPL/CH_1SEVASTOPOL_SVTPL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Югра HD (Сургут)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_UGRA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",UGRA Travel (Сургут)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_UGRATRAVEL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С1 HD (Сургут)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_C1HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",С86 HD (Сургут)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_C86HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Сургут 24 HD (Сургут)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_SURGUT24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый советский HD (Сургут)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_1SOVETSKIYHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Второй канал (Радужный)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_2TV_RADUZHNY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Наши города HD (Когалым)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_NGORHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТРК Юганск (Юганск)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_YUGANSK_YUNSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Няганский телеканал/МИР 24 (Нягань)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_NYAGANTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР7 HD (Нефтеюганск)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_TNR7HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТНР24 HD (Нижневартовск)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_TNR24HD_NIZH.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Самотлор HD (Нижневартовск)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_SAMOTLORHD_NIZH.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Пыть-Ях Информ (Пыть-Ях)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_PYT-YAHINFORM.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мегаполис HD (Нижневартовск)
-http://dmitry-tv.ddns.net/hls/zabava/region/SUR/CH_MEGAPOLISHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Юрган (Сыктывкар)
-http://dmitry-tv.ddns.net/hls/zabava/region/SKTV/CH_YURGAN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Новый век (Тамбов)
-http://dmitry-tv.ddns.net/hls/zabava/region/TAMB/CH_NOVIY_VEK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тверской Проспект HD (Тверь)
-http://dmitry-tv.ddns.net/hls/zabava/region/TVER/CH_TVERPROSPHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Панорама ТВ HD (Тверь)
-http://dmitry-tv.ddns.net/hls/zabava/region/TVER/CH_PANORAMATVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Томское время HD (Томск)
-http://dmitry-tv.ddns.net/hls/zabava/region/TOMSK/CH_TOMSKVREMYAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Тульский (Тула)
-http://dmitry-tv.ddns.net/hls/zabava/region/TULA/CH_1TULSKIY.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тюменское время HD (Тюмень)
-http://dmitry-tv.ddns.net/hls/zabava/region/TUM/CH_TUMVREMYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТVОЯ (Тюмень)
-http://dmitry-tv.ddns.net/hls/zabava/region/TUM/CH_TVOYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тобольское время (Тобольск)
-http://dmitry-tv.ddns.net/hls/zabava/region/TUM/CH_TOBOLSKOEVREMYA_TBLSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",АТВ MEDIA (Улан-удэ)
-http://dmitry-tv.ddns.net/hls/zabava/region/UUDE/CH_ATVMEDIA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Тивиком HD (Улан-Удэ)
-http://dmitry-tv.ddns.net/hls/zabava/region/UUDE/CH_TIVICOMHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Аригус HD (Улан-Удэ)
-http://dmitry-tv.ddns.net/hls/zabava/region/UUDE/CH_ARIGUSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Буряад ТВ HD (Улан-Удэ)
-http://dmitry-tv.ddns.net/hls/zabava/region/UUDE/CH_BURYAADHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Репортер 73 (Ульяновск)
-http://dmitry-tv.ddns.net/hls/zabava/region/UL/CH_REP73.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",УлПравда ТВ HD (Ульяновск)
-http://dmitry-tv.ddns.net/hls/zabava/region/UL/CH_ULPRAVDAHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Башкортостан 24 HD720 (Уфа)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_BASHKORTOSTAN24HD720.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Матур ТВ HD (Уфа)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_MATURTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТАМЫР (Уфа)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_TAMYRTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",САЛЯМ HD (Уфа)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_SALYAMHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",NEXT TV HD (Нефтекамск)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_NEXTTV_NFSK.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Туган Тел (Уфа)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_TUGANTEL.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Курай ТВ (Уфа)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_KURAYTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Учалы ТВ (Учалы)
-http://dmitry-tv.ddns.net/hls/zabava/region/UFA/CH_UCHALYTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Губерния (Хабаровск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_HVSK/CH_GUBERNIYA.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",6ТВ (Хабаровск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_HVSK/CH_6TV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Комсомольское время 6ТВ (Хабаровск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_HVSK/CH_6TVKMS.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ЮТВ (Чебоксары)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHR/CH_UTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Чаваш Ен HD (Чебоксары)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHR/CH_NATIONALTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",31 канал (Челябинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_31TV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Ural 1 HD (Челябинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_URAL1HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ТВ-ИН HD (Магнитогорск)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_TVINHD_MAGN.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Злат ТВ (Златоуст)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_ZLATTV.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Восточный экспресс HD (Миасс)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_VOSTEXPRESSHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ОТВ HD (Челябинск)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHEL/CH_OTVHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Архыз 24 HD (Черкесия)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHERKS/CH_ARKHIZ24HD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",РТК Забайкалье HD (Чита)
-http://dmitry-tv.ddns.net/hls/zabava/region/CHITA/CH_RTKZABHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",НВК Саха HD (Якутск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_YKT/CH_NVCHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Якутия 24 (Якутск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_YKT/CH_YAKT24.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Мамонт (Якутск)
-http://dmitry-tv.ddns.net/hls/zabava/region/DV_YKT/CH_MAMONT.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",Первый Ярославский HD (Ярославль)
-http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_1YAROSLAVSKIYHD.m3u8
-#EXTINF:-1 group-title="РЕГИОНАЛЬНЫЕ",ГТ-Регион (Ярославль)
-http://dmitry-tv.ddns.net/hls/zabava/region/YARL/CH_GTREG.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE-1.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_2.m3u8
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",СТС Love (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2-1.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_2.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_6.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_7.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA-1.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_2.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_6.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_7.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4-1.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_2.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_4.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_6.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_7.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (-1)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY-1.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+2)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+4)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+6)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+7)
-http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ
-http://dmitry-tv.ddns.net/hls/zabava/CH_VSETV.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Всё ТВ HD
-http://dmitry-tv.ddns.net/hls/zabava/CH_VSETVHD.m3u8
-
+#EXTINF:-1 group-title="Общие", loganettv all
+https://t.me/loganettv_support
+#EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
+https://t.me/loganettv_original
+#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
+http://194.8.128.38:8080/ort/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал +9 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_1TV/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал HD
+http://95.66.188.74/PerviyHD/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy-kanal-eu", Первый канал Европа
+https://streaming.thestream.cyou/live/210.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1
+http://194.32.242.245/rossiya1/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1-pl9" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 1 +9 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s14131.cdn.ngenix.net/hls/CH_R41_OTT_DV_KAM_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rossia1", Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rtr-planeta-azia", Россия РТР
+https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21df1f
+#EXTINF:-1 group-title="Общие" tvg-id="rtr-belarus", Беларусь РТР
+http://194.158.222.36:6105
+#EXTINF:-1 group-title="Общие" tvg-id="rtr-planeta-eu", Planeta RTR
+https://player.smotrim.ru/iframe/stream/live_id/1525504b-449d-432d-ab5d-1f11081f8603
+#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ
+http://cdn.ntv.ru/ntv0/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", НТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv", НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntv-belarus", НТВ-Беларусь
+http://194.158.222.36:6107
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru", Пятый канал
+http://95.66.188.74/5kanal/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="5kanal-ru-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятый канал +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="otr", ОТР
+http://194.32.242.245/otr/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="otr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ОТР (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr", ТВ Центр
+http://5.188.221.43:8080/play/tv-centr
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="tvcentr-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ Центр +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_7/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rentv", Рен ТВ
+http://185.46.16.239:8000/REN_TV
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Рен ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rentv-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Рен ТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_7/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="rentv-int", Рен ТВ Int.
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Звезда +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_7/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda", Звезда HD
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="mir", Мир
+http://185.46.16.239:8000/Mir
+#EXTINF:-1 group-title="Общие" tvg-id="mir" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="mir-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Мир +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_7/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="mir", Мир HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="tro", БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="bst", БСТ
+http://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="vmeste-rf", Вместе-РФ HD
+https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="krym24", Крым 24
+http://live24.1tvcrimea.ru/switcher.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="millet", Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="novgorodskoe-obl-tv", Новгородское областное телевидение
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ntk-kz", НТК
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="nts-sevastopol", НТС Севастополь
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ont-by", ОНТ
+https://stream.dc.beltelecom.by/ont/ont/playlist.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="ont-by", ОНТ HD
+https://edge50.dc.beltelecom.by/ont/ont/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="pervy-krymsky", Первый крымский
+http://live1.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simfer24", Симферополь 24
+https://simf.1tvcrimea.ru/simferopol24.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="stv-by", СТВ Беларусь
+http://edge50.dc.beltelecom.by/ctv/ctv.stream/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="tcb", ТСВ Приднестровье HD
+https://tsv.md/stream/hls/tsv-online/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="tnv-planeta", ТНВ Планета
+http://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="tnv", ТНВ Татарстан
+http://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="cctv-ru", CGTN Русский HD
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo", .Black
+http://192.162.64.99:5100/play/a036/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="sony-tv", .Red
+http://tvip.btk.teleos.ru:8081/chid85/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi", .Sci-Fi
+http://194.32.242.245/a2/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="domkino", Дом кино
+http://46.8.46.14/domkino/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium", Дом кино Премиум
+http://85.11.144.6:6060/play/a07v/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium", Дом кино Премиум HD
+http://95.66.188.74/DomKinoPremiumHD/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="dorama", Дорама
+http://tvip.btk.teleos.ru:8081/chid516/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="evrokino", Еврокино
+http://195.158.223.132:8010/Evrokino
+#EXTINF:-1 group-title="Кино" tvg-id="illuzion-plus", Иллюзион+
+http://192.162.64.99:5100/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="indiyskoe-kino", Индийское кино
+http://46.8.46.14/indiatv/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="zee-tv", Индия
+http://192.162.64.99:5100/play/a03g/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко
+http://tv.streams.baikal-telecom.net:8080/KINEKO/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kineko", Кинеко HD
+http://s1.merlive.am/kineko/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kino1int-tviksel", Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv", Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kino-tv", Кино ТВ HD
+http://46.8.46.14/kinotv/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia", Кинокомедия
+http://194.32.242.245/kinokomediya/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia", Кинокомедия HD
+http://46.8.46.14/kinokomedia/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinosat", Киноман
+http://192.162.64.99:5100/play/a02d/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinomiks", Киномикс
+http://195.64.140.147:10044/44
+#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz", Кинопоказ
+http://95.66.188.74/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd", Кинопремьера
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd", Кинопремьера HD
+http://192.162.64.99:5100/play/a02a/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie", Киносвидание
+http://195.158.223.132:8008/Kinosvidanie
+#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya", Киносемья
+http://87.246.54.249:8085/kinosemia/mpegts
+#EXTINF:-1 group-title="Кино" tvg-id="kinosemiya", Киносемья HD
+http://194.32.242.245/kinosemyahd/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinoseria", Киносерия
+http://195.64.140.147:10048/48
+#EXTINF:-1 group-title="Кино" tvg-id="kinoseria", Киносерия HD
+https://vod.splay.uz/live_splay/original/Kinoseriya/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="kinouzhas", Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1 group-title="Кино" tvg-id="kinoxit", Кинохит
+http://195.64.140.147:10046/46
+#EXTINF:-1 group-title="Кино" tvg-id="kinoxit", Кинохит HD
+http://195.158.223.132:8008/Kinohit
+#EXTINF:-1 group-title="Кино" tvg-id="russkaya-komedia", Комедия
+http://194.32.242.245/Komediya/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="lubimoe-kino", Любимое кино
+http://46.8.46.14/Nashe_Lubimoe_Kino/index.m3u8
+#EXTINF:-1 group-title="Кино", Мир сериала
+http://46.8.46.14/MirSeriala/index.m3u8
+#EXTINF:-1 group-title="Кино", Мосфильм. Золотая коллекция
+http://188.190.222.53/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="Кино", Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1 group-title="Кино", Мужское кино HD
+http://192.162.64.99:5100/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Кино", Наше новое кино
+http://195.64.140.147:10053/53
+#EXTINF:-1 group-title="Кино", Наше новое кино HD
+http://87.246.54.249:8085/NasheKino/index.m3u8
+#EXTINF:-1 group-title="Кино", НСТ
+http://194.32.242.245/nst/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-xit", НТВ-Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="ntv-serial", НТВ-Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", Ретро
+https://vod.splay.uz/live_splay/original/Retro/index.m3u8
+#EXTINF:-1 group-title="Кино", Родное кино
+http://84.54.128.52:9090/play/a009/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский бестселлер
+http://195.64.140.147:10075/75
+#EXTINF:-1 group-title="Кино", Русский детектив
+http://195.158.223.132:8008/Russkiy_Detektiv
+#EXTINF:-1 group-title="Кино", Русский иллюзион
+http://192.162.64.99:5100/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Кино", Русский иллюзион HD
+http://195.64.140.147:10093/93
+#EXTINF:-1 group-title="Кино", Русский роман
+http://85.208.223.249:8888/play/a007
+#EXTINF:-1 group-title="Кино", Русский роман HD
+http://46.8.46.14/ruroman/index.m3u8
+#EXTINF:-1 group-title="Кино", Сапфир
+http://195.64.140.147:10056/56
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАзия
+https://autopilot.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноАРТ
+https://autopilot.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДетектив
+https://autopilot.catcast.tv/content/41327/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДок
+https://autopilot.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноДрама
+https://autopilot.catcast.tv/content/45269/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноКлассика
+https://autopilot.catcast.tv/content/34185/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноКомедия
+https://autopilot.catcast.tv/content/41331/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноМистика
+https://autopilot.catcast.tv/content/40783/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноСемья
+https://autopilot.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноФантастика
+https://autopilot.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — КиноЭкшен
+https://autopilot.catcast.tv/content/41333/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — ТелеНовелла
+https://autopilot.catcast.tv/content/46209/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Кино", Сити Эдем — Христианский
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=promolive
+#EXTINF:-1 group-title="Кино", ТВ21
+http://46.8.46.14/TV21/index.m3u8
+#EXTINF:-1 group-title="Кино", Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1 group-title="Кино", Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1 group-title="Кино", Amedia Premium HD
+http://217.21.34.160:38007/amediapremium/index.m3u8
+#EXTINF:-1 group-title="Кино", Bolt
+http://192.162.64.99:5100/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="bolt", Bolt UA HD
+http://84.245.224.71/BoltHD/mono.m3u8
+#EXTINF:-1 group-title="Кино", Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино", Cinema HD
+http://195.64.140.147:10055/55
+#EXTINF:-1 group-title="Кино", Comedy Central
+http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1 group-title="Кино", FAN HD
+http://46.8.46.14/FAN/index.m3u8
+#EXTINF:-1 group-title="Кино", FilmBox
+http://188.190.222.53/FilmBOX/index.m3u8
+#EXTINF:-1 group-title="Кино", FlixSnip
+http://194.32.242.245/flixsnip/index.m3u8
+#EXTINF:-1 group-title="Кино", FX
+http://46.8.46.14/FOX/index.m3u8
+#EXTINF:-1 group-title="Кино", FX HD
+http://212.12.194.90:8080/foxhd/index.m3u8
+#EXTINF:-1 group-title="Кино", FX Life ~
+http://188.237.47.212:6008
+#EXTINF:-1 group-title="Кино", Hollywood
+http://192.162.64.99:5100/play/a02i/index.m3u8
+#EXTINF:-1 group-title="Кино", Hollywood HD
+http://194.32.242.245/hollywoodhd/index.m3u8
+#EXTINF:-1 group-title="Кино", Kino24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
+#EXTINF:-1 group-title="Кино", Saga TV ~
+http://178.212.71.253:8001/play/144/index.m3u8
+#EXTINF:-1 group-title="Кино", Shot TV
+http://192.162.64.99:5100/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Кино", Star Cinema HD
+http://192.162.64.99:5100/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="star-cinema-eu" audio-track="rus", Star Cinema EU HD
+http://84.245.224.71/StarCinemaHD/mono.m3u8
+#EXTINF:-1 group-title="Кино", Star Cinema
+http://192.162.64.99:5100/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="star-family-eu" audio-track="rus", Star Family EU HD
+http://84.245.224.71/StarFamilyHD/mono.m3u8
+#EXTINF:-1 group-title="Кино", Start Air
+http://195.64.140.147:10063/63
+#EXTINF:-1 group-title="Кино", Start Air HD
+https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
+#EXTINF:-1 group-title="Кино", Start World HD
+https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
+#EXTINF:-1 group-title="Кино", Timeless Dizi
+http://192.162.64.99:5100/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="tv1000-globalkino", TV1000 Русское кино Global
+http://213.169.39.30:5006
+#EXTINF:-1 group-title="Кино", Viasat Kino Comedy HD 🛡
+http://ukr.ukrainske.tv/493/tvainua/video.m3u8
+#EXTINF:-1 group-title="Кино", Viasat Kino World
+http://5.188.159.128:8070/TV1000_World_Kino/index.m3u8
+#EXTINF:-1 group-title="Кино", viju TV1000
+http://46.8.46.14/tv1000/index.m3u8
+#EXTINF:-1 group-title="Кино", viju TV1000 HD
+http://vod.splay.uz/live_splay/original/TV1000/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино", viju TV1000 action
+http://46.8.46.14/actiontv/index.m3u8
+#EXTINF:-1 group-title="Кино", viju TV1000 русское
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1 group-title="Кино", viju+ Comedy
+http://46.8.46.14/vipcomedy/index.m3u8
+#EXTINF:-1 group-title="Кино", viju+ Comedy HD
+http://87.246.54.249:8085/Viju_Comedy/mpegts
+#EXTINF:-1 group-title="Кино", viju+ Megahit
+http://46.8.46.14/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="Кино", viju+ Megahit HD
+http://194.32.242.245/vipmegahit/index.m3u8
+#EXTINF:-1 group-title="Кино", viju+ Premiere
+http://194.32.242.245/vippremiere/index.m3u8
+#EXTINF:-1 group-title="Кино", viju+ Premiere HD
+http://192.162.64.99:5200/play/a02f/index.m3u8
+#EXTINF:-1 group-title="Детям", В гостях у сказки
+http://195.64.140.147:10136/136
+#EXTINF:-1 group-title="Детям", Детский мир
+http://195.26.83.96:7007/play/14/index.m3u8
+#EXTINF:-1 group-title="Детям", Детское кино Int.
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детям" tvg-id="karusel" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Детям" tvg-id="karusel-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Карусель +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/variant.m3u8
+#EXTINF:-1 group-title="Детям", Карусель
+http://194.32.242.245/Karusel/index.m3u8
+#EXTINF:-1 group-title="Детям", Мама
+http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1 group-title="Детям", Мамонтенок
+http://sirius.greenhosting.ru/MamontRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детям", Мульт
+http://radioserver.abinet.com:8815/udp/127.0.0.1:6006
+#EXTINF:-1 group-title="Детям", Мульт HD
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="Детям", Мультиландия
+http://192.162.64.99:5100/play/a034/index.m3u8
+#EXTINF:-1 group-title="Детям" tvg-id="multimania-lv", Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детям", Мультимузыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 group-title="Детям", О!
+http://195.64.140.147:10124/124
+#EXTINF:-1 group-title="Детям", Радость моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Детям", Рыжий
+http://46.8.46.14/Ryzhiy/index.m3u8
+#EXTINF:-1 group-title="Детям", Смайл ТВ
+https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Детям" tvg-id="solnce" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}", Солнце (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/variant.m3u8
+#EXTINF:-1 group-title="Детям" tvg-id="solnce-pl7" catchup="append" catchup-days="7" catchup-source="?utcstart=${start}&utcend=${end}", Солнце +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/variant.m3u8
+#EXTINF:-1 group-title="Детям", Солнце
+http://tv.mediacdn.ru/live/solntse/playlist.m3u8
+#EXTINF:-1 group-title="Детям", СТС Kids
+http://195.158.223.132:8010/STS_Kids
+#EXTINF:-1 group-title="Детям" tvg-id="malysh", СуперГерои
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="Детям" tvg-id="tooku", Тооку HD
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
+#EXTINF:-1 group-title="Детям", Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="Детям" tvg-id="shayantv", Шаян HD
+http://shayan.bonus-tv.ru:80/cdn/shayan/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Детям", Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детям", Cartoon Classics
+http://95.66.188.74/Cartoon_Classics/index.m3u8
+#EXTINF:-1 group-title="Детям", Cartoon Network
+http://46.8.46.14/Cartoon_Network/index.m3u8
+#EXTINF:-1 group-title="Детям", Cartoonito
+http://88.216.112.114/Cartoonito/index.m3u8
+#EXTINF:-1 group-title="Детям", Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 group-title="Детям", Fox Kids
+http://foxkids-online.ru/hls/test_240p264kbs/index.m3u8
+#EXTINF:-1 group-title="Детям", Gulli Girl
+http://46.8.46.14/Gulli/index.m3u8
+#EXTINF:-1 group-title="Детям", Nickelodeon
+http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детям", TiJi
+http://188.190.222.53/TiJi/index.m3u8
+#EXTINF:-1 group-title="Развлечение", 2x2
+http://46.8.46.14/2x2/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="2na2" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", 2x2 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Вопросы и ответы
+http://91.194.191.241:8081/chid30/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Время
+http://195.64.140.147:10166/166
+#EXTINF:-1 group-title="Развлечение", Глазами туриста
+http://217.21.34.160:38007/glazami_turista/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Глазами туриста HD
+http://192.162.64.99:5200/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="domashny" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="domashny-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Домашний +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Домашний
+http://188.190.222.53/Domashniy/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Калейдоскоп ТВ
+http://tv.streams.baikal-telecom.net:8080/KaleidoskopTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", КВН ТВ
+http://158.101.222.193:88/georgia_play.php?id=kvntv
+#EXTINF:-1 group-title="Развлечение" tvg-id="rus-hualiang-tv", Китай ТВ HD
+http://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Красная линия
+http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Ностальгия
+http://188.190.222.53/Nostalgia/index.m3u8
+#EXTINF:-1 group-title="Развлечение", НТВ-Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", НТВ-Стиль
+http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение", Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Перец Int.
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1 group-title="Развлечение", Поехали!
+http://95.66.188.74/Poehali/mono.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="prikluchenia-hd", Приключения HD
+http://46.8.46.14/AdventureHD/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="piatnica" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="piatnica-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Пятница! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Пятница! Int.
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1 group-title="Развлечение" tvg-id="rzhd-tv", РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="rzhd-tv", РЖД ТВ HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Развлечение", Россия Культура
+http://185.46.16.239:8000/Rossiya_K
+#EXTINF:-1 group-title="Развлечение" tvg-id="kultura" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="kultura-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия Культура +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Россия Культура HD
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Сарафан
+https://streamer3.connectto.com/490/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", Светлое ТВ
+http://176.107.219.20:9000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС
+http://188.190.222.53/CTC/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="sts" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="sts-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_STS_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС HD
+http://95.66.188.74/CTC_HD/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС Int.
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
+#EXTINF:-1 group-title="Развлечение", СТС Love
+http://194.32.242.245/stslove/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="sts-love" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="sts-love-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", СТС Love +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="super", Суббота!
+http://195.64.140.147:10041/41
+#EXTINF:-1 group-title="Развлечение" tvg-id="super" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="super-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Суббота! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Танцуй! ~
+http://178.212.71.253:8000/play/81/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Т24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 group-title="Развлечение", ТВ3
+http://185.46.16.239:8000/TV3
+#EXTINF:-1 group-title="Развлечение" tvg-id="tv3-ru" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ3 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="tv3-ru-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТВ3 +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="tvoyo-tv-hd", Твое ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="tvoetv-humor", Твое ТВ Юмор HD
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Театр
+http://46.8.46.14/Teatr/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="teleputeshestvia", Телепутешествия ~
+http://91.194.191.241:8081/chid433/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ
+http://185.46.16.239:8000/TNT
+#EXTINF:-1 group-title="Развлечение" tvg-id="tnt" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="tnt-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ HD
+http://95.66.188.74/TNT_HD/mono.m3u8
+#EXTINF:-1 group-title="Развлечение", ТНТ4
+http://188.190.222.53/TNT4/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="tnt4" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="tnt4-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", ТНТ4 +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Успех
+http://188.190.222.53/Uspeh/index.m3u8
+#EXTINF:-1 group-title="Развлечение", ЦТВ
+http://178.212.71.253:8000/play/41/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Че
+http://95.66.188.74/Che/mono.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="che" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="che-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Че! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Ю ТВ
+http://46.8.46.14/utv/index.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="yu" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
+#EXTINF:-1 group-title="Развлечение" tvg-id="yu-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Ю ТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/variant.m3u8
+#EXTINF:-1 group-title="Развлечение", Discovery HD
+http://195.64.140.147:10151/151
+#EXTINF:-1 group-title="Развлечение", Gagsnetwork
+http://192.162.64.99:5000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Investigation Discovery
+http://46.8.46.14/InvestigationDiscovery/index.m3u8
+#EXTINF:-1 group-title="Развлечение", Nano
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 group-title="Развлечение", RTG TV
+http://188.190.222.53/RTG_TV/index.m3u8
+#EXTINF:-1 group-title="Развлечение", RTG HD
+http://95.66.188.74/RTGHD/index.m3u8
+#EXTINF:-1 group-title="Развлечение", TLC
+http://195.64.140.147:10137/137
+#EXTINF:-1 group-title="Развлечение", TLC HD
+http://195.64.140.147:10148/148
+#EXTINF:-1 group-title="Развлечение", Travel Channel HD
+http://195.64.140.147:10158/158
+#EXTINF:-1 group-title="Знания", 360°
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", 360° HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", 365 дней
+http://158.101.222.193:88/georgia_play.php?id=365day
+#EXTINF:-1 group-title="Знания", Арсенал HD
+http://95.66.188.74/Arsenal_HD/index.m3u8
+#EXTINF:-1 group-title="Знания", Арт
+http://95.47.156.60:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Знания", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", Вкус
+http://tvip.btk.teleos.ru:8081/chid515/index.m3u8
+#EXTINF:-1 group-title="Знания", Доктор
+http://45.11.139.43:8555/doctor/index.m3u8
+#EXTINF:-1 group-title="Знания", Домашние животные
+http://46.8.46.14/domzhivot/index.m3u8
+#EXTINF:-1 group-title="Знания", Живая планета
+http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:-1 group-title="Знания", Живи активно
+http://192.162.64.99:5300/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Знания", Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v2a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Знания", Звезда Плюс HD
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Знания", Здоровое ТВ
+http://95.66.188.74/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="Знания", Зоо ТВ
+http://95.66.188.74/Zoo_TV/mono.m3u8
+#EXTINF:-1 group-title="Знания", История
+http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 group-title="Знания", Конгресс ТВ
+https://stitch.teletarget.ru/api/v1/hls/504/135/index.m3u8
+#EXTINF:-1 group-title="Знания", Конгресс ТВ HD
+https://live-4.otcnet.ru/504/135/1080p/index.m3u8
+#EXTINF:-1 group-title="Знания", Кто есть кто
+http://158.101.222.193:88/georgia_play.php?id=ktoestkto
+#EXTINF:-1 group-title="Знания" tvg-id="ldpr-tv", ЛДПР ТВ
+http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="ldpr-tv", ЛДПР ТВ HD
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="moskovsky-obrazovatelny", Московское образование
+http://retc.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:-1 group-title="Знания", Моя планета
+http://5.188.221.43:8080/play/moya_planeta
+#EXTINF:-1 group-title="Знания", Моя планета HD
+http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 group-title="Знания" tvg-id="nauka-20", Наука
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="nauka-20", Наука HD
+http://188.190.222.53/Nauka_HD/index.m3u8
+#EXTINF:-1 group-title="Знания", Неизвестная Россия
+http://cdn2.ntv.ru/unknown_russia/tracks-v3a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", Неизвестная Россия HD
+http://cdn2.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", Неизвестная планета HD
+http://stitch.teletarget.ru/api/v1/hls/vintera/neplaneta/index.m3u8
+#EXTINF:-1 group-title="Знания", Океан
+http://86.57.209.210/Ocean/index.m3u8
+#EXTINF:-1 group-title="Знания", Плюс Минус 16
+http://media.16pm.ru/live/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Знания", Победа
+http://46.8.46.14/Pobeda/index.m3u8
+#EXTINF:-1 group-title="Знания", ПРНК
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1 group-title="Знания", Про бизнес
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8
+#EXTINF:-1 group-title="Знания", Просвещение
+https://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="galaxy-tv", Тайны Галактики
+http://192.162.64.99:5200/play/a035/index.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="terra-inkognita", Терра Инкогнита HD
+http://178.124.153.123:44400/terra
+#EXTINF:-1 group-title="Знания", Точка отрыва
+http://192.162.64.99:5000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Знания", Точка.РФ
+http://95.66.188.74/HD_Life/mono.m3u8
+#EXTINF:-1 group-title="Знания", Точка.РФ HD
+http://158.101.222.193:88/georgia_play.php?id=hdlife
+#EXTINF:-1 group-title="Знания", Animal Planet ~
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Знания", DocuBox
+http://188.190.222.53/DocuBOX/index.m3u8
+#EXTINF:-1 group-title="Знания", Love Nature HD 🛡️
+http://95.67.12.82:9098
+#EXTINF:-1 group-title="Знания", Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Знания", Luxury HD
+http://s1.tv-nano.com/Luxury_rec/video.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic
+http://46.8.46.14/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Знания", National Geographic Wild
+http://195.64.140.147:10149/149
+#EXTINF:-1 group-title="Знания" audio-track="rus", National Geographic Wild HD
+http://185.236.230.212:9982/play/a07y
+#EXTINF:-1 group-title="Знания", One Planet 🛡️
+http://95.67.12.82:9088
+#EXTINF:-1 group-title="Знания", RTД
+http://tv.streams.baikal-telecom.net:8080/RTD_HD/mpegts
+#EXTINF:-1 group-title="Знания", RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1 group-title="Знания", Silk Way HD
+https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="terra-ru", Terra
+http://192.162.64.99:5000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Знания", Trace Sport Stars
+http://87.120.142.11:18000/Rossiya1
+#EXTINF:-1 group-title="Знания" tvg-id="tv-brics", TV BRICS
+http://origin5.mediacdn.ru/live/brics/index.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="tv-brics", TV BRICS HD
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="univer-tv", Univer
+http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Знания" tvg-id="univer-tv", Univer HD
+http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
+#EXTINF:-1 group-title="Знания", viju Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Знания", viju History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Знания", viju Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Знания", viju+ Planet HD
+http://195.64.140.147:10147/147
+#EXTINF:-1 group-title="Знания", Zooпарк
+http://46.8.46.14/zoo/index.m3u8
+#EXTINF:-1 group-title="Новости", 360° Новости HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Новости", Беларусь 24
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1 group-title="Новости", Восток 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://s91030.cdn.ngenix.net/hls/CH_R01_OTT_DV_VLD_VOSTOK24_OTT/variant.m3u8
+#EXTINF:-1 group-title="Новости", Известия
+http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Крик ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Кубань 24
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+#EXTINF:-1 group-title="Новости", Мир 24 HD
+http://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Новости", Москва 24
+http://194.32.242.245/moskva24/index.m3u8
+#EXTINF:-1 group-title="Новости", Москва. Доверие
+http://178.212.71.253:8000/play/53/index.m3u8
+#EXTINF:-1 group-title="Новости", ОТВ Екатеринбург HD
+https://vd.obltv.ru/watch/air_hd.m3u8
+#EXTINF:-1 group-title="Новости", Первый информационный
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
+#EXTINF:-1 group-title="Новости", РБК
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1 group-title="Новости", Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="rossia-24" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="rossia-24-pl7" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Россия 24 +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24_7/variant.m3u8
+#EXTINF:-1 group-title="Новости", Соловьев Live HD
+https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
+#EXTINF:-1 group-title="Новости", ТАСС
+https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
+#EXTINF:-1 group-title="Новости", BBC World News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="Новости", CNN
+http://190.11.225.124:5000/live/cnn_hd/playlist.m3u8
+#EXTINF:-1 group-title="Новости", Deutsche Welle
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+#EXTINF:-1 group-title="Новости" tvg-id="russia-today", RT English HD
+https://rt-glb.rttv.com/dvr/rtnews/playlist_1600Kb.m3u8
+#EXTINF:-1 group-title="Хобби", Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="Хобби", Авто Плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="Хобби" tvg-id="bobior", Бобер
+http://95.66.188.74/Bober/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Диалоги о рыбалке
+http://192.162.64.99:5000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Хобби", Дикий
+http://195.64.140.147:10139/139
+#EXTINF:-1 group-title="Хобби", Дикая охота
+http://217.21.34.160:38007/dikayaohotahd/index.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая охота HD
+http://192.162.64.99:5000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка
+http://217.21.34.160:38007/dikayarybalkahd/index.m3u8
+#EXTINF:-1 group-title="Хобби", Дикая рыбалка HD
+http://194.32.242.245/DikayarybalkaHD/index.m3u8
+#EXTINF:-1 group-title="Хобби", Драйв
+http://46.8.46.14/Drive/index.m3u8
+#EXTINF:-1 group-title="Хобби", Живи!
+http://158.101.222.193:88/georgia_play.php?id=jivi
+#EXTINF:-1 group-title="Хобби", Живи! HD
+http://46.8.46.14/zhivi/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="zagorodnaya-zhizn", Загородная жизнь
+http://185.57.68.33/40/mpegts
+#EXTINF:-1 group-title="Хобби", Загородный
+http://95.66.188.74/Zagorodniy/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="kuxnia-tv", Кухня
+http://95.66.188.74/Kuhnya/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="kuxnia-tv", Кухня HD
+http://46.8.46.14/kuhnya/index.m3u8
+#EXTINF:-1 group-title="Хобби", Лапки Live
+http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
+#EXTINF:-1 group-title="Хобби", Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1 group-title="Хобби", Наша тема
+http://178.212.71.253:8000/play/73/index.m3u8
+#EXTINF:-1 group-title="Хобби", Оружие
+http://158.101.222.193:88/georgia_play.php?id=oruzhie
+#EXTINF:-1 group-title="Хобби", Охота и рыбалка
+http://195.64.140.147:10039/39
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов
+http://195.64.140.147:10162/162
+#EXTINF:-1 group-title="Хобби", Охотник и рыболов HD
+http://46.8.46.14/ohota/index.m3u8
+#EXTINF:-1 group-title="Хобби", Рыбалка и охота
+http://213.169.39.30:5262
+#EXTINF:-1 group-title="Хобби", Сити Эдем — АвтоГид
+https://autopilot.catcast.tv/content/47515/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби", Сити Эдем — МедЗдрав
+https://autopilot.catcast.tv/content/47519/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби", Сити Эдем — Рецепты Гурмана
+https://autopilot.catcast.tv/content/47516/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Хобби", Телекафе
+http://46.8.46.14/telecafe/index.m3u8
+#EXTINF:-1 group-title="Хобби", Усадьба
+http://95.66.188.74/Usadba/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV
+http://192.162.64.99:5000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="e-tv", E TV HD
+http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion TV
+http://84.245.224.71/FashionTVHD/mono.m3u8
+#EXTINF:-1 group-title="Хобби", Fashion TV HD
+http://fashion.mediacdn.ru/cdn/fashiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="eda-hd", Food Time HD ~
+http://193.33.88.172/eda_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel", World Fashion Channel
+http://live-3.otcnet.ru/wfcrus/index.m3u8
+#EXTINF:-1 group-title="Хобби" tvg-id="world-fashion-channel", World Fashion Channel HD
+http://cdn.wfc.tv/cdn/stream-rus-1080p.m3u8
+#EXTINF:-1 group-title="Религия", Сити Эдем ТВ
+https://autopilot.catcast.tv/content/34246/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Религия", Сити Эдем Плей
+https://autopilot.catcast.tv/content/34100/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Религия", Союз
+http://31.148.48.15/Soyuz/index.m3u8
+#EXTINF:-1 group-title="Религия", Союз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="Религия", МузСоюз
+http://178.212.71.253:8000/play/43/index.m3u8
+#EXTINF:-1 group-title="Религия", МузСоюз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Надежда
+http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Спас
+http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Религия" tvg-id="spas" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Спас (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
+#EXTINF:-1 group-title="Религия" tvg-id="spas" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Спас +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS_7/variant.m3u8
+#EXTINF:-1 group-title="Религия", ТБВ HD
+https://bv.mediacdn.ru/cdn/blagvest/playlist.m3u8
+#EXTINF:-1 group-title="Религия", ТБН
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Религия", Три ангела
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5int/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Беларусь 5 Интернет HD
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/chunklist_w601692199_b2660000_sleng.m3u8
+#EXTINF:-1 group-title="Спорт", Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1 group-title="Спорт", Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="match-tv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Матч! +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV_7/variant.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! HD
+http://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="Спорт", Конный мир
+http://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт", Матч! Арена HD
+http://193.111.244.35:7474/matcharena/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Боец
+http://87.120.142.11:18000/Match!
+#EXTINF:-1 group-title="Спорт", Матч! Игра
+http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1 group-title="Спорт", Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1 group-title="Спорт", Матч! Премьер
+http://46.8.46.14/premier/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Премьер HD
+http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Страна
+http://195.64.140.147:10099/99
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1
+http://188.190.222.53/Match_Futbol_1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 1 HD
+http://193.111.244.35:7474/matchfut1hd/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 2
+http://193.111.244.35:7474/matchfutbol2/index.m3u8
+#EXTINF:-1 group-title="Спорт", Матч! Футбол 3
+http://188.190.222.53/Match_Futbol_3/index.m3u8
+#EXTINF:-1 group-title="Спорт", Мир баскетбола
+http://195.64.140.147:10111/111
+#EXTINF:-1 group-title="Спорт" tvg-id="start", Старт ~
+http://91.194.191.241:8081/chid231/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="start", Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?live=15&ref=https://tvstart.ru/channels/start-basket-test/
+#EXTINF:-1 group-title="Спорт", Футбол
+http://188.190.222.53/Football/index.m3u8
+#EXTINF:-1 group-title="Спорт", Arena Sport 1
+https://176.116.105.82/Arena_Sport1_HD/index.m3u8
+#EXTINF:-1 group-title="Спорт", Arena Sport 2
+https://176.116.105.82/Arena_Sport2_HD/index.m3u8
+#EXTINF:-1 group-title="Спорт", Astrakhan.RU Sport HD
+http://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Bein Sports Xtra 🛡️
+https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 3
+http://185.236.229.62:9981/play/a05n
+#EXTINF:-1 group-title="Спорт", Canal+ Sport 4
+http://185.236.229.62:9981/play/a05f
+#EXTINF:-1 group-title="Спорт", Diema Sport
+http://213.169.39.30:5134
+#EXTINF:-1 group-title="Спорт", Diema Sport 2
+http://213.169.39.30:5136
+#EXTINF:-1 group-title="Спорт", Diema Sport 3
+http://213.169.39.30:5216
+#EXTINF:-1 group-title="Спорт", Eurosport 1
+http://192.162.64.99:5000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2
+http://192.162.64.99:5000/play/a035/index.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 2 HD
+http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Eurosport 4K 🛡️
+https://7pal.short.gy/eusport4k
+#EXTINF:-1 group-title="Спорт", Extreme Sports
+http://45.11.139.43:8555/extsport/index.m3u8
+#EXTINF:-1 group-title="Спорт", Extreme Sports HD
+http://vod.stb.tvime.ru/Extreme_Sports/video.m3u8
+#EXTINF:-1 group-title="Спорт", FightBox
+http://188.190.222.53/FightBOX/index.m3u8
+#EXTINF:-1 group-title="Спорт", Fox Sports 501 🛡️
+https://7pal.short.gy/fox501au
+#EXTINF:-1 group-title="Спорт", Fox Sports 502 🛡️
+https://7pal.short.gy/fox502au
+#EXTINF:-1 group-title="Спорт", Fox Sports 503 🛡️
+https://7pal.short.gy/fox503au
+#EXTINF:-1 group-title="Спорт", Fox Sports 504 🛡️
+https://7pal.short.gy/fox504au
+#EXTINF:-1 group-title="Спорт", Fox Sports 505 🛡️
+https://7pal.short.gy/fox505au
+#EXTINF:-1 group-title="Спорт", Fox Sports 506 🛡️
+https://7pal.short.gy/fox506au
+#EXTINF:-1 group-title="Спорт", Fox Sports 507 🛡️
+https://7pal.short.gy/fox507au
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL
+http://194.32.242.245/khl/index.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl", KHL HD
+http://84.245.224.71/KHLHD/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime
+http://87.246.54.249:8085/KHL/mpegts
+#EXTINF:-1 group-title="Спорт" tvg-id="kxl-hd", KHL Prime HD
+http://192.162.64.99:5200/play/a046/index.m3u8
+#EXTINF:-1 group-title="Спорт", MMA-TV
+http://87.246.54.249:8085/MMATV/index.m3u8
+#EXTINF:-1 group-title="Спорт", Okko Спорт. Прайм HD
+http://185.221.213.254:8080/Okko/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Спорт", Premier Sport 1 🛡️
+https://7pal.short.gy/prsport1
+#EXTINF:-1 group-title="Спорт", Premier Sport 2 🛡️
+https://7pal.short.gy/prsport2
+#EXTINF:-1 group-title="Спорт", Russian Extreme
+http://85.208.223.249:8888/play/a004
+#EXTINF:-1 group-title="Спорт", Setanta Sports 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Setanta Sports 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", Sky Sport 1 NZ 🛡️
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="Спорт", Sky Sport 2 NZ 🛡️
+https://7pal.short.gy/skyspt2nz
+#EXTINF:-1 group-title="Спорт", Sky Sport 3 NZ 🛡️
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="Спорт", Sky Sport 4 NZ 🛡️
+https://7pal.short.gy/skyspt4nz
+#EXTINF:-1 group-title="Спорт", Sky Sport Golf 🛡️
+https://7pal.short.gy/ssportsg
+#EXTINF:-1 group-title="Спорт", Sky Sport F1 UHD 🛡️
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="Спорт", Sky Sport Football 🛡️
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 group-title="Спорт", Sky Sport Main Event 🛡️
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="Спорт", Sky Sport News 🛡️
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 group-title="Спорт", TNT Sport 1 🛡️
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="Спорт", TNT Sport 2 🛡️
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="Спорт", TNT Sport 3 🛡️
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="Спорт", TNT Sport 4 🛡️
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="Спорт", viju+ Sport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+#EXTINF:-1 group-title="Музыка", 1HD Music
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Музыка", Жар Птица
+http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Жара
+http://46.8.46.14/Zhara/index.m3u8
+#EXTINF:-1 group-title="Музыка", Курай-ТВ
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Матур ТВ
+http://providers.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыка", Матур ТВ HD
+http://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="muzykamodatv", ММТВ HD
+http://95.47.156.60:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Музыка", Муз-ТВ
+http://45.11.139.43:8555/muz/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Муз-ТВ +7 (Архив)
+#EXTVLCOPT:http-user-agent=WINK/1.40.1 (AndroidTV/9) HlsWinkPlayer
+https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_7/variant.m3u8
+#EXTINF:-1 group-title="Музыка", Музыка Первого
+http://91.194.191.241:8081/chid94/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="la-minor", Музыка Live
+http://tvip.btk.teleos.ru:8081/chid435/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", О!2
+http://95.66.188.74/O2TV/index.m3u8
+#EXTINF:-1 group-title="Музыка", Первый музыкальный
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="Музыка", Первый музыкальный HD
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка", Первый музыкальный Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка", Первый музыкальный Россия HD
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка", Сити Эдем — Classic Music
+https://autopilot.catcast.tv/content/47400/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — Meditation Music
+https://autopilot.catcast.tv/content/47410/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — БирмаПлей
+https://autopilot.catcast.tv/content/34364/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Сити Эдем — СиртакиТВ
+https://autopilot.catcast.tv/content/46421/index.m3u8?password=loganet
+#EXTINF:-1 group-title="Музыка", Страна FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="Музыка", ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="shanson-tv", Шансон-ТВ
+http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge
+http://188.190.222.53/BridgeTV/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Classic
+http://195.158.223.132:8004/Bridge_Classic
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd", Bridge Deluxe
+http://192.162.64.99:5200/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-hd", Bridge Deluxe HD ~
+http://31.148.48.15/Bridge_TV_HD/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Hits
+http://46.8.46.14/BridgeDance/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Rock
+http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Фрэш
+http://195.158.223.132:8004/Bridge_Fresh
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-ruxit", Bridge Русский хит
+http://91.194.191.241:8081/chid468/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="bridge-tv-shlager", Bridge Шлягер
+http://178.212.71.253:8000/play/142/index.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Этно
+http://192.162.64.99:5200/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Музыка", CHD Rock HD
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка", CHD RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="Музыка", Clubbing TV HD
+https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Dance
+https://d2hnivx8upksrk.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1q019khonuqjh/01efc271-2cc2-49ed-adfc-a8c5117f7d26/3.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Lounge
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="Музыка", Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Deluxe Rap
+http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Музыка", Europa Plus TV
+http://195.64.140.147:10036/36
+#EXTINF:-1 group-title="Музыка", Europa Plus TV HD
+http://46.8.46.14/evropa/index.m3u8
+#EXTINF:-1 group-title="Музыка", Kiss Kiss
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка", Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка", Maidan
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Музыка", Mezzo
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1 group-title="Музыка", MTV 00s
+http://85.11.144.6:6060/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Музыка", MTV 80s
+http://213.169.39.30:5137
+#EXTINF:-1 group-title="Музыка", MTV 90s
+http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музыка", MTV Hits
+http://213.169.39.30:5257
+#EXTINF:-1 group-title="Музыка", MTV Live
+http://190.102.246.93:9005/play/a01p
+#EXTINF:-1 group-title="Музыка", Polsat Music HD
+http://185.236.229.62:9981/play/a02b
+#EXTINF:-1 group-title="Музыка", Radio M2O
+https://streamcdnm5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/index.m3u8
+#EXTINF:-1 group-title="Музыка", Retro Music
+http://78.130.250.2:8023/play/a02r/index.m3u8
+#EXTINF:-1 group-title="Музыка", RU.TV
+http://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 group-title="Музыка", RU.TV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Музыка", Russian MusicBox HD
+http://178.212.71.253:8000/play/65/index.m3u8
+#EXTINF:-1 group-title="Музыка", VIVA HD
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Музыка", Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 group-title="Релакс", Живая природа
+http://178.212.71.253:8000/play/79/index.m3u8
+#EXTINF:-1 group-title="Релакс", Живая природа HD
+http://217.21.34.160:38007/zhivaya_priroda/index.m3u8
+#EXTINF:-1 group-title="Релакс", Релакс
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="Релакс", BetterLife Nature
+http://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 group-title="Релакс", Fireplace 4K
+https://d2l4k8y57npunc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f08h8nn8dmm6z/Fireplace_4K_SONO20.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
+#EXTINF:-1 group-title="Релакс", Home 4K
+http://178.217.72.66:8080/HOME_4K/index.m3u8
+#EXTINF:-1 group-title="Релакс", Underwater 4K
+https://dt9g97js2xsv9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rfve7l4mp37ko/SONOS45.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=US700012OU
