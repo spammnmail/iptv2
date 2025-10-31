@@ -249,7 +249,7 @@ https://t.me/loganettv_support
 #EXTINF:-1 group-title="Общие", telegram - t.me/loganettv_original
 https://t.me/loganettv_original
 #EXTINF:-1 group-title="HGTV" tvg-id="hgtv", HGTV
-https://tv.tvcdnpotok.com/2011/index.m3u8?wmsAuthSign=58407b160d15463d75c527522dfab74a-1761908785-83i24i25i671
+https://tv.tvcdnpotok.com/2011/index.m3u8?wmsAuthSign=e155f800d3b9c339cbb024c64ba9257f-1761948236-83i24i25i671
 #EXTINF:-1 group-title="Общие" tvg-id="pervy", Первый канал
 http://194.8.128.38:8080/ort/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-id="pervy" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}", Первый канал (Архив)
